@@ -1,0 +1,6 @@
+airflow_logs/
+output/
+data/cdr_data.csv
+__pycache__/
+*.pyc
+.env
